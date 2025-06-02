@@ -1,16 +1,13 @@
 # flutter_task
-
+# flutter profile App
 A new Flutter project.
 
-## Getting Started
+A simple Flutter application built as part of a Flutter Internship Task. This app demonstrates basic screen navigation, widget structuring, and dynamic data handling using model classes.
 
-This project is a starting point for a Flutter application.
+# Overview
+The app consists of two main screens:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Home Screen:** Displays a welcome message and a button to view the user's profile.
+- **Profile Screen:** Shows user information such as name, email, and phone number, along with a profile image and a back button.
+- Loading spinner before navigation.
+- clean and simple UI.
